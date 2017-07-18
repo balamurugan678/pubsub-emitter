@@ -1,0 +1,26 @@
+<?xml version='1.0'?>
+<family>
+    <person id="1">
+        <firstName>MS</firstName>
+        <lastName>Dhoni</lastName>
+        <address href="1">London</address>
+    </person>
+    <person id="1">
+        <firstName>MS</firstName>
+        <lastName>Dhoni</lastName>
+        <address href="2">London</address>
+    </person>
+    <person id="2">
+        <firstName>Rafa</firstName>
+        <lastName>Nadal</lastName>
+        <address href="2">London</address>
+    </person>
+    <address id="1">
+        <houseNumber>18</houseNumber>
+        <street>Park Hill</street>
+    </address>
+    <address id="2">
+        <houseNumber>19</houseNumber>
+        <street>Park Lane</street>
+    </address>
+</family>

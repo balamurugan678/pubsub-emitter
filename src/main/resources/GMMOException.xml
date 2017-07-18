@@ -1,0 +1,26 @@
+<Exception>
+    <ExceptionSource>PIC_EVENT_NEW</ExceptionSource>
+    <FirstSeenTimeStamp>01/06/2016</FirstSeenTimeStamp>
+    <LastSeenTimestamp>26/10/2016</LastSeenTimestamp>
+    <ExceptionStatus>ASSIGNED</ExceptionStatus>
+    <ExceptionType>UC_TRADE_ERRORED</ExceptionType>
+    <ConsumersImpacted>Volcker,MMSR</ConsumersImpacted>
+    <ExceptionPriority>High</ExceptionPriority>
+    <RelatedCaseRef>CASE-3,CASE-4</RelatedCaseRef>
+    <LinkedCaseRef>CASE-1,CASE-2</LinkedCaseRef>
+    <Notes></Notes>
+    <CustomAttributes>
+        <SOURCE_SYSTEM>GCAL</SOURCE_SYSTEM>
+        <MATCH_TYPE>PTS Only</MATCH_TYPE>
+        <CONTROL_EVENT_STATUS></CONTROL_EVENT_STATUS>
+        <RAW_CONTROL_EVENT_STATUS>DTF_INT_WORKFLOWS_COMPLETE</RAW_CONTROL_EVENT_STATUS>
+        <MESSAGE_ID>16065763</MESSAGE_ID>
+        <TRADE_ID>2495921</TRADE_ID>
+        <MESSAGE_TRADE_VERSION>12</MESSAGE_TRADE_VERSION>
+        <FAMILY>CreditDefaultSwap</FAMILY>
+        <PRODUCT_TYPE>CreditDefaultSwap</PRODUCT_TYPE>
+        <EVENT_TYPE>VERIFIED_TRADE</EVENT_TYPE>
+        <PROCESSING_ORG>HSBCUSA</PROCESSING_ORG>
+        <BOOK>EURCDS</BOOK>
+    </CustomAttributes>
+</Exception>
